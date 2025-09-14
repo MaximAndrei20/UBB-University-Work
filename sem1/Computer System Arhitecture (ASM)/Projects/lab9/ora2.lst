@@ -1,0 +1,69 @@
+     1                                  bits 32 ; assembling for the 32 bits architecture
+     2                                  
+     3                                  ; declare the EntryPoint (a label defining the very first instruction of the program)
+     4                                  global start        
+     5                                  
+     6                                  ; declare external functions needed by our program
+     7                                  extern exit, printf, scanf, fprintf, fread, fopen              ; tell nasm that exit exists even if we won't be defining it
+     8                                  import exit msvcrt.dll    ; exit is a function that ends the calling process. It is defined in msvcrt.dll
+     9                                  import scanf msvcrt.dll
+    10                                  import printf msvcrt.dll                          ; msvcrt.dll contains exit, printf and all the other important C-runtime specific functions
+    11                                  import fopen msvcrt.dll
+    12                                  import fread msvcrt.dll
+    13                                  import fprintf msvcrt.dll
+    14                                  
+    15                                  ; our data is declared here (the variables needed by our program)
+    16                                  segment data use32 class=data
+    17 00000000 00<rept>                    input_from_file times 12 db 0
+    18 0000000C 7200                        acces_mode_read db "r",0
+    19 0000000E 00000000                    file_descriptor_input dd 0
+    20 00000012 696E707574322E7478-         input_file_name db "input2.txt", 0
+    20 0000001B 7400               
+    21                                      
+    22 0000001D 7700                        acces_mode_write db "w",0
+    23 0000001F 00000000                    file_descriptor_output dd 0
+    24 00000023 6F7574707574322E74-         output_file_name db "output2.txt", 0
+    24 0000002C 787400             
+    25                                      
+    26 0000002F 257320202000                fprintf_format db "%s   ", 0
+    27                                      
+    28 00000035 00000000                    len dd 0
+    29                                      
+    30                                  ; our code starts here
+    31                                  segment code use32 class=code
+    32                                      start:
+    33 00000000 68[0C000000]                    push dword acces_mode_read
+    34 00000005 68[12000000]                    push dword input_file_name
+    35 0000000A FF15[00000000]                  call [fopen]
+    36 00000010 A3[0E000000]                    mov [file_descriptor_input], eax
+    37 00000015 83C408                          add esp, 4*2
+    38                                          
+    39 00000018 68[1D000000]                    push dword acces_mode_write
+    40 0000001D 68[23000000]                    push dword output_file_name
+    41 00000022 FF15[00000000]                  call [fopen]
+    42 00000028 A3[1F000000]                    mov [file_descriptor_output], eax
+    43 0000002D 83C408                          add esp, 4*2
+    44                                          
+    45                                          read:
+    46 00000030 FF35[0E000000]                      push dword[file_descriptor_input]
+    47 00000036 6A0A                                push 10
+    48 00000038 6A01                                push 1
+    49 0000003A 68[00000000]                        push input_from_file
+    50 0000003F FF15[00000000]                      call [fread]
+    51 00000045 83C410                              add esp, 4*4
+    52 00000048 A3[35000000]                        mov [len], eax
+    53 0000004D C680[00000000]00                    mov [input_from_file+eax], byte 0
+    54                                              
+    55 00000054 68[00000000]                        push dword input_from_file
+    56 00000059 68[2F000000]                        push dword fprintf_format
+    57 0000005E FF35[1F000000]                      push dword [file_descriptor_output]
+    58 00000064 FF15[00000000]                      call [fprintf]
+    59 0000006A 83C40C                              add esp, 4*3
+    60                                              
+    61 0000006D 833D[35000000]00                    cmp dword[len], dword 0
+    62 00000074 75BA                                jne read
+    63                                              
+    64                                          
+    65                                          ; exit(0)
+    66 00000076 6A00                            push    dword 0      ; push the parameter for exit onto the stack
+    67 00000078 FF15[00000000]                  call    [exit]       ; call exit to terminate the program

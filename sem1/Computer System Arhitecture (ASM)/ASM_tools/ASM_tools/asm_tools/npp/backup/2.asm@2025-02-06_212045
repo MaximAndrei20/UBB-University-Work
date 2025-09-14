@@ -1,0 +1,59 @@
+bits 32
+
+global start
+
+extern exit, printf
+import exit msvcrt.dll
+import printf msvcrt.dll
+
+segment data use32 class=data
+    sir dd 1234A678h, 12785634h, 1A4D3C2Bh
+    lenSir equ ($-sir)/4
+    words resw lenSir
+    copie_ecx dd 0
+    number_of_bits dd 0
+    format db "%d", 0
+    
+
+segment code use 32 class=code
+    start:
+        mov esi, sir      ;esi points to the beginnig of the string
+        mov edi, words    ;edi points to the beginnig of the new string (of words)
+        mov ecx, lenSir   ;ecx - length of the string
+        jecxz final_loop1
+        parse:
+            lodsd ;EAX <- element from the string
+            mov BL, AH ;<- puts into BL the upper byte of the lowwer word of eax
+            shr EAX, 16 ; now AH has the higher byte of eax
+            mov BH, AH  ;BX has the desired result
+            mov AX,BX   ; move the result from bx to ax
+            stosw       ; puts into the new string the result
+        loop parse
+        final_loop1:
+        
+        mov esi, words
+        mov ecx, lenSir
+        jecxz final_loop2
+        parse_words:
+            lodsw
+            mov [copie_ecx], ecx
+            mov ecx, 16 ;16 - bits
+            add_bit:
+                rcr ax, 1
+                mov EBX, 0
+                rcl EBX, 1
+                add [number_of_bits], EBX
+            loop add_bit
+            
+            mov ecx, [copie_ecx]
+        loop parse_words
+        final_loop2:
+        
+        push dword [number_of_bits]
+        push format
+        call [printf]
+        add esp, 4*2
+                
+        
+        push dword 0
+        call [exit]

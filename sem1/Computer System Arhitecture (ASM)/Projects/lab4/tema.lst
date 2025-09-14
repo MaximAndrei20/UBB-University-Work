@@ -1,0 +1,73 @@
+     1                                  bits 32 ; assembling for the 32 bits architecture
+     2                                  
+     3                                  ; declare the EntryPoint (a label defining the very first instruction of the program)
+     4                                  global start        
+     5                                  
+     6                                  ; declare external functions needed by our program
+     7                                  extern exit               ; tell nasm that exit exists even if we won't be defining it
+     8                                  import exit msvcrt.dll    ; exit is a function that ends the calling process. It is defined in msvcrt.dll
+     9                                                            ; msvcrt.dll contains exit, printf and all the other important C-runtime specific functions
+    10                                      ;29)
+    11                                      ;   Given the doublewords A si B, obtain the quadword C as follows:
+    12                                      ; 1)the bits 0-7 of C are the same as the bits 21-28 of A
+    13                                      ; 2)the bits 8-15 of C are the same as the bits 23-30 of B complemented
+    14                                      ; 3)the bits 16-21 of C have the value 101010
+    15                                      ; 4)the bits 22-31 of C have the value 0
+    16                                      ; 5)the bits 32-42 of C are the same as the bits 21-31 of B
+    17                                      ; 6)the bits 43-55 of C are the same as the bits 1-13 of A
+    18                                      ; 7)the bits 56-63 of C are the same as the bits 24-31 of the result A XOR 0ABh
+    19                                                            
+    20                                  ; our data is declared here (the variables needed by our program)
+    21                                  segment data use32 class=data
+    22                                      ; ...
+    23 00000000 CC4C380A                    a dd 0xA384CCC
+    24 00000004 D3FD9209                    b dd 0x992FDD3
+    25 00000008 0000000000000000            C dq 0
+    26                                  ; our code starts here
+    27                                  segment code use32 class=code
+    28                                      start:
+    29                                          ; ...
+    30                                          ; storing the result into EDX:EAX, and will move afterwards into C
+    31 00000000 B800000000                      mov EAX, 0
+    32 00000005 BA00000000                      mov EDX, 0
+    33 0000000A 8B1D[00000000]                  mov EBX, [a]
+    34 00000010 C1E315                          shl EBX, 21
+    35 00000013 81E3FF000000                    and EBX, 0x000000FF
+    36                                          ; EBX has 00...0A(21-28 bits)
+    37 00000019 09D8                            or EAX, EBX
+    38                                          ; 1) setting bits 0-7 of C to the 21-28 bits of A
+    39                                          
+    40 0000001B 8B1D[04000000]                  mov EBX, [b]
+    41 00000021 C1E30F                          shl EBX, 15
+    42 00000024 F7DB                            neg EBX
+    43 00000026 81E300FF0000                    and EBX, 0x0000FF00
+    44 0000002C 09D8                            or EAX, EBX
+    45                                          ; 2) setting bits 8-15 to the 23-30 bits of B complemented
+    46                                          
+    47 0000002E 0D00002A00                      or EAX, 0x002A0000
+    48                                          ; 0000 0000 0010 1010b = 0x2A  for subtasks 3 and 4
+    49                                          
+    50 00000033 8B1D[04000000]                  mov EBX, [b]
+    51 00000039 C1E315                          shl EBX, 21
+    52 0000003C 81E3FF070000                    and EBX, 0x000007FF
+    53                                          ;saving only 11 bits, from 21-31
+    54 00000042 21DA                            and edx, ebx
+    55                                          ;storing into the higher part of C 
+    56                                          
+    57 00000044 8B1D[00000000]                  mov EBX, [a]
+    58 0000004A C1EB09                          shr EBX, 9
+    59                                          ; putting the bits 1-13 on the possition 11-23 in order to move them into EDX
+    60 0000004D 81E300F8FF00                    and EBX, 0x00FFF800
+    61 00000053 09DA                            or EDX, EBX
+    62                                          
+    63 00000055 8B1D[00000000]                  mov EBX, [a]
+    64 0000005B 81F3AB000000                    xor EBX, 0xAB
+    65 00000061 81E3000000FF                    and EBX, 0xFF000000
+    66 00000067 09DA                            or EDX,EBX
+    67                                          
+    68 00000069 A3[08000000]                    mov [C], EAX
+    69 0000006E 8915[0C000000]                  mov [C+4], EDX
+    70                                          
+    71                                          ; exit(0)
+    72 00000074 6A00                            push    dword 0      ; push the parameter for exit onto the stack
+    73 00000076 FF15[00000000]                  call    [exit]       ; call exit to terminate the program

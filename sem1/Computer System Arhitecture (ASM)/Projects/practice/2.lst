@@ -1,0 +1,61 @@
+     1                                  bits 32
+     2                                  
+     3                                  global start
+     4                                  
+     5                                  extern exit, printf
+     6                                  import exit msvcrt.dll
+     7                                  import printf msvcrt.dll
+     8                                  
+     9                                  segment data use32 class=data
+    10 00000000 78A63412345678122B-         sir dd 1234A678h, 12785634h, 1A4D3C2Bh
+    10 00000009 3C4D1A             
+    11                                      lenSir equ ($-sir)/4
+    12 0000000C <res 00000006>              words resw lenSir
+    13 00000012 00000000                    copie_ecx dd 0
+    14 00000016 00000000                    number_of_bits dd 0
+    15 0000001A 256400                      format db "%d", 0
+    16                                      
+    17                                  
+    18                                  segment code use 32 class=code
+    19                                      start:
+    20 00000000 BE[00000000]                    mov esi, sir      ;esi points to the beginnig of the string
+    21 00000005 BF[0C000000]                    mov edi, words    ;edi points to the beginnig of the new string (of words)
+    22 0000000A B903000000                      mov ecx, lenSir   ;ecx - length of the string
+    23 0000000F E30F                            jecxz final_loop1
+    24                                          parse:
+    25 00000011 AD                                  lodsd ;EAX <- element from the string
+    26 00000012 88E3                                mov BL, AH ;<- puts into BL the upper byte of the lowwer word of eax
+    27 00000014 C1E810                              shr EAX, 16 ; now AH has the higher byte of eax
+    28 00000017 88E7                                mov BH, AH  ;BX has the desired result
+    29 00000019 6689D8                              mov AX,BX   ; move the result from bx to ax
+    30 0000001C 66AB                                stosw       ; puts into the new string the result
+    31 0000001E E2F1                            loop parse
+    32                                          final_loop1:
+    33                                          
+    34 00000020 BE[0C000000]                    mov esi, words
+    35 00000025 B903000000                      mov ecx, lenSir
+    36 0000002A E327                            jecxz final_loop2
+    37                                          parse_words:
+    38 0000002C 66AD                                lodsw
+    39 0000002E 890D[12000000]                      mov [copie_ecx], ecx
+    40 00000034 B910000000                          mov ecx, 16 ;16 - bits
+    41                                              add_bit:
+    42 00000039 66D1D8                                  rcr ax, 1
+    43 0000003C BB00000000                              mov EBX, 0
+    44 00000041 D1D3                                    rcl EBX, 1
+    45 00000043 011D[16000000]                          add [number_of_bits], EBX
+    46 00000049 E2EE                                loop add_bit
+    47                                              
+    48 0000004B 8B0D[12000000]                      mov ecx, [copie_ecx]
+    49 00000051 E2D9                            loop parse_words
+    50                                          final_loop2
+    50          ******************       warning: label alone on a line without a colon might be in error [-w+orphan-labels]
+    51                                          
+    52 00000053 FF35[16000000]                  push dword [number_of_bits]
+    53 00000059 68[1A000000]                    push format
+    54 0000005E FF15[00000000]                  call [printf]
+    55 00000064 83C408                          add esp, 4*2
+    56                                                  
+    57                                          
+    58 00000067 6A00                            push dword 0
+    59 00000069 FF15[00000000]                  call [exit]
