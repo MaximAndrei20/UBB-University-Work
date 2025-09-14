@@ -1,6 +1,0 @@
-﻿   Qt/MSBuild: 3.4.0.1
-   Qt: 6.9.0
-  Service.cpp
-D:\Facultate\DSA\Projects\QThw01\QThw01\Service.cpp(64,35): warning C4101: 'e': unreferenced local variable
-D:\Facultate\DSA\Projects\QThw01\QThw01\Service.cpp(78,35): warning C4101: 'e': unreferenced local variable
-  QThw01.vcxproj -> D:\Facultate\DSA\Projects\QThw01\x64\Debug\QThw01.exe

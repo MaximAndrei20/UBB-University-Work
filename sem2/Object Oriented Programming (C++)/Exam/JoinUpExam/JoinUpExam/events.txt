@@ -1,4 +1,0 @@
-Andrei|movie1|a nice movie|5|5|26/06
-Mihai|movie2|a bad movie|1|5|28/06
-Mihai|dance1|a nice dance|4|5|04/07
-Andrei|dance2|a bad dance|0|1|03/07
