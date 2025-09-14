@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30AEA8-E32E-4AC6-BFFF-C0D4F94E0FBB}|ADTSortedBagBST\\ADTSortedBagBST.vcxproj|D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\SortedBagIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A30AEA8-E32E-4AC6-BFFF-C0D4F94E0FBB}|ADTSortedBagBST\\ADTSortedBagBST.vcxproj|solutionrelative:ADTSortedBagBST\\SortedBagIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30AEA8-E32E-4AC6-BFFF-C0D4F94E0FBB}|ADTSortedBagBST\\ADTSortedBagBST.vcxproj|D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\SortedBagIterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A30AEA8-E32E-4AC6-BFFF-C0D4F94E0FBB}|ADTSortedBagBST\\ADTSortedBagBST.vcxproj|solutionrelative:ADTSortedBagBST\\SortedBagIterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30AEA8-E32E-4AC6-BFFF-C0D4F94E0FBB}|ADTSortedBagBST\\ADTSortedBagBST.vcxproj|D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\ShortTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A30AEA8-E32E-4AC6-BFFF-C0D4F94E0FBB}|ADTSortedBagBST\\ADTSortedBagBST.vcxproj|solutionrelative:ADTSortedBagBST\\ShortTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30AEA8-E32E-4AC6-BFFF-C0D4F94E0FBB}|ADTSortedBagBST\\ADTSortedBagBST.vcxproj|D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\SortedBag.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A30AEA8-E32E-4AC6-BFFF-C0D4F94E0FBB}|ADTSortedBagBST\\ADTSortedBagBST.vcxproj|solutionrelative:ADTSortedBagBST\\SortedBag.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30AEA8-E32E-4AC6-BFFF-C0D4F94E0FBB}|ADTSortedBagBST\\ADTSortedBagBST.vcxproj|D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\SortedBag.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A30AEA8-E32E-4AC6-BFFF-C0D4F94E0FBB}|ADTSortedBagBST\\ADTSortedBagBST.vcxproj|solutionrelative:ADTSortedBagBST\\SortedBag.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A30AEA8-E32E-4AC6-BFFF-C0D4F94E0FBB}|ADTSortedBagBST\\ADTSortedBagBST.vcxproj|D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A30AEA8-E32E-4AC6-BFFF-C0D4F94E0FBB}|ADTSortedBagBST\\ADTSortedBagBST.vcxproj|solutionrelative:ADTSortedBagBST\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 117,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortedBagIterator.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\SortedBagIterator.cpp",
+              "RelativeDocumentMoniker": "ADTSortedBagBST\\SortedBagIterator.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\SortedBagIterator.cpp",
+              "RelativeToolTip": "ADTSortedBagBST\\SortedBagIterator.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwCkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T18:28:15.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShortTest.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\ShortTest.cpp",
+              "RelativeDocumentMoniker": "ADTSortedBagBST\\ShortTest.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\ShortTest.cpp",
+              "RelativeToolTip": "ADTSortedBagBST\\ShortTest.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T18:32:04.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortedBagIterator.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\SortedBagIterator.h",
+              "RelativeDocumentMoniker": "ADTSortedBagBST\\SortedBagIterator.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\SortedBagIterator.h",
+              "RelativeToolTip": "ADTSortedBagBST\\SortedBagIterator.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T18:09:09.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SortedBag.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\SortedBag.cpp",
+              "RelativeDocumentMoniker": "ADTSortedBagBST\\SortedBag.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\SortedBag.cpp",
+              "RelativeToolTip": "ADTSortedBagBST\\SortedBag.cpp",
+              "ViewState": "AgIAALgAAAAAAAAAAAA6wMcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T17:46:49.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortedBag.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\SortedBag.h",
+              "RelativeDocumentMoniker": "ADTSortedBagBST\\SortedBag.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\SortedBag.h",
+              "RelativeToolTip": "ADTSortedBagBST\\SortedBag.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T17:41:43.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\App.cpp",
+              "RelativeDocumentMoniker": "ADTSortedBagBST\\App.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\ADTSortedBagBST\\ADTSortedBagBST\\App.cpp",
+              "RelativeToolTip": "ADTSortedBagBST\\App.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T17:41:38.792Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\DSA\\Projects\\MochTest2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|solutionrelative:MochTest2\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|solutionrelative:MochTest2\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|solutionrelative:MochTest2\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|solutionrelative:MochTest2\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Refrigerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|solutionrelative:MochTest2\\Refrigerator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Dishwasher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|solutionrelative:MochTest2\\Dishwasher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Apliance.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|solutionrelative:MochTest2\\Apliance.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Apliance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|solutionrelative:MochTest2\\Apliance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Dishwasher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|solutionrelative:MochTest2\\Dishwasher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|solutionrelative:MochTest2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Refrigerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C64DDAFA-6C32-4228-B752-CE609D73C287}|MochTest2\\MochTest2.vcxproj|solutionrelative:MochTest2\\Refrigerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 117,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Service.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Service.cpp",
+              "RelativeDocumentMoniker": "MochTest2\\Service.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Service.cpp",
+              "RelativeToolTip": "MochTest2\\Service.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T13:16:57.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\UI.cpp",
+              "RelativeDocumentMoniker": "MochTest2\\UI.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\UI.cpp*",
+              "RelativeToolTip": "MochTest2\\UI.cpp*",
+              "ViewState": "AgIAADoAAAAAAAAAAAA0wFMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T12:49:16.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Apliance.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Apliance.cpp",
+              "RelativeDocumentMoniker": "MochTest2\\Apliance.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Apliance.cpp",
+              "RelativeToolTip": "MochTest2\\Apliance.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T12:24:29.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dishwasher.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Dishwasher.h",
+              "RelativeDocumentMoniker": "MochTest2\\Dishwasher.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Dishwasher.h*",
+              "RelativeToolTip": "MochTest2\\Dishwasher.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T12:24:27.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Refrigerator.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Refrigerator.h",
+              "RelativeDocumentMoniker": "MochTest2\\Refrigerator.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Refrigerator.h*",
+              "RelativeToolTip": "MochTest2\\Refrigerator.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T12:24:13.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Apliance.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Apliance.h",
+              "RelativeDocumentMoniker": "MochTest2\\Apliance.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Apliance.h*",
+              "RelativeToolTip": "MochTest2\\Apliance.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T12:24:00.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Service.h",
+              "RelativeDocumentMoniker": "MochTest2\\Service.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Service.h*",
+              "RelativeToolTip": "MochTest2\\Service.h*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA0wBIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T12:23:50.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UI.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\UI.h",
+              "RelativeDocumentMoniker": "MochTest2\\UI.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\UI.h*",
+              "RelativeToolTip": "MochTest2\\UI.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T12:49:13.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dishwasher.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Dishwasher.cpp",
+              "RelativeDocumentMoniker": "MochTest2\\Dishwasher.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Dishwasher.cpp*",
+              "RelativeToolTip": "MochTest2\\Dishwasher.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T12:27:41.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Refrigerator.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Refrigerator.cpp",
+              "RelativeDocumentMoniker": "MochTest2\\Refrigerator.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\Refrigerator.cpp",
+              "RelativeToolTip": "MochTest2\\Refrigerator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T12:32:28.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\main.cpp",
+              "RelativeDocumentMoniker": "MochTest2\\main.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\MochTest2\\MochTest2\\main.cpp*",
+              "RelativeToolTip": "MochTest2\\main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T12:14:50.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

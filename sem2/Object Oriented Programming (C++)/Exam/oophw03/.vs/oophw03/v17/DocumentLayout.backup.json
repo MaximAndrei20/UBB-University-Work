@@ -1,0 +1,429 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\DSA\\Projects\\oophw03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\CSVFileRepo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\CSVFileRepo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Database.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\Database.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\Repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\HTMLRepo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\HTMLRepo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\FileRepo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\FileRepo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\testfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\testfile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\CSVFileRepo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\CSVFileRepo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\FileRepo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\FileRepo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\HTMLRepo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\HTMLRepo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\Repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\Event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\EventValidator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\EventValidator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\EventValidator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\EventValidator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\EventException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\EventException.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\Tests.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Tests.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\Tests.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\EventException.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F890A726-96F8-403A-89CD-1A22B843BCF8}|oophw03\\oophw03.vcxproj|solutionrelative:oophw03\\EventException.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 117,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAArwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T14:07:27.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.csv",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Database.csv",
+              "RelativeDocumentMoniker": "oophw03\\Database.csv",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Database.csv",
+              "RelativeToolTip": "oophw03\\Database.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-29T13:40:07.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\UI.cpp",
+              "RelativeDocumentMoniker": "oophw03\\UI.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\UI.cpp",
+              "RelativeToolTip": "oophw03\\UI.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T20:21:27.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CSVFileRepo.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\CSVFileRepo.cpp",
+              "RelativeDocumentMoniker": "oophw03\\CSVFileRepo.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\CSVFileRepo.cpp",
+              "RelativeToolTip": "oophw03\\CSVFileRepo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T10:25:13.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileRepo.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\FileRepo.cpp",
+              "RelativeDocumentMoniker": "oophw03\\FileRepo.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\FileRepo.cpp",
+              "RelativeToolTip": "oophw03\\FileRepo.cpp",
+              "ViewState": "AgIAABoAAAAAAAAAAAA0wCsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T09:15:24.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HTMLRepo.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\HTMLRepo.cpp",
+              "RelativeDocumentMoniker": "oophw03\\HTMLRepo.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\HTMLRepo.cpp",
+              "RelativeToolTip": "oophw03\\HTMLRepo.cpp",
+              "ViewState": "AgIAAFsAAAAAAAAAAAA0wG8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T10:53:38.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Service.cpp",
+              "RelativeDocumentMoniker": "oophw03\\Service.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Service.cpp",
+              "RelativeToolTip": "oophw03\\Service.cpp",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv1gAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T20:19:45.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\main.cpp",
+              "RelativeDocumentMoniker": "oophw03\\main.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\main.cpp",
+              "RelativeToolTip": "oophw03\\main.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAA0wCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T10:29:39.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Service.h",
+              "RelativeDocumentMoniker": "oophw03\\Service.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Service.h",
+              "RelativeToolTip": "oophw03\\Service.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-25T20:19:10.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector",
+              "ViewState": "AgIAAGwAAAAAAAAAAAA4wHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-16T15:14:44.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repo.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Repo.cpp",
+              "RelativeDocumentMoniker": "oophw03\\Repo.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Repo.cpp",
+              "RelativeToolTip": "oophw03\\Repo.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAA0wDkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T10:08:46.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "testfile.txt",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\testfile.txt",
+              "RelativeDocumentMoniker": "oophw03\\testfile.txt",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\testfile.txt",
+              "RelativeToolTip": "oophw03\\testfile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-04-09T14:26:58.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CSVFileRepo.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\CSVFileRepo.h",
+              "RelativeDocumentMoniker": "oophw03\\CSVFileRepo.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\CSVFileRepo.h",
+              "RelativeToolTip": "oophw03\\CSVFileRepo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T10:21:58.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UI.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\UI.h",
+              "RelativeDocumentMoniker": "oophw03\\UI.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\UI.h",
+              "RelativeToolTip": "oophw03\\UI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-25T20:20:50.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FileRepo.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\FileRepo.h",
+              "RelativeDocumentMoniker": "oophw03\\FileRepo.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\FileRepo.h",
+              "RelativeToolTip": "oophw03\\FileRepo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T09:13:42.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HTMLRepo.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\HTMLRepo.h",
+              "RelativeDocumentMoniker": "oophw03\\HTMLRepo.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\HTMLRepo.h",
+              "RelativeToolTip": "oophw03\\HTMLRepo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T10:52:46.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Repo.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Repo.h",
+              "RelativeDocumentMoniker": "oophw03\\Repo.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Repo.h",
+              "RelativeToolTip": "oophw03\\Repo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T10:07:25.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Event.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Event.cpp",
+              "RelativeDocumentMoniker": "oophw03\\Event.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Event.cpp",
+              "RelativeToolTip": "oophw03\\Event.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAA0wDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T10:34:50.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Event.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Event.h",
+              "RelativeDocumentMoniker": "oophw03\\Event.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Event.h",
+              "RelativeToolTip": "oophw03\\Event.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-25T10:34:19.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EventException.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\EventException.h",
+              "RelativeDocumentMoniker": "oophw03\\EventException.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\EventException.h",
+              "RelativeToolTip": "oophw03\\EventException.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-29T10:00:38.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EventValidator.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\EventValidator.cpp",
+              "RelativeDocumentMoniker": "oophw03\\EventValidator.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\EventValidator.cpp",
+              "RelativeToolTip": "oophw03\\EventValidator.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T12:46:34.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventValidator.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\EventValidator.h",
+              "RelativeDocumentMoniker": "oophw03\\EventValidator.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\EventValidator.h",
+              "RelativeToolTip": "oophw03\\EventValidator.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-24T12:38:49.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Tests.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Tests.h",
+              "RelativeDocumentMoniker": "oophw03\\Tests.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Tests.h",
+              "RelativeToolTip": "oophw03\\Tests.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-03T07:11:56.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Tests.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Tests.cpp",
+              "RelativeDocumentMoniker": "oophw03\\Tests.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\Tests.cpp",
+              "RelativeToolTip": "oophw03\\Tests.cpp",
+              "ViewState": "AgIAAOEBAAAAAAAAAAA2wP4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T07:12:58.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EventException.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\EventException.cpp",
+              "RelativeDocumentMoniker": "oophw03\\EventException.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\oophw03\\oophw03\\EventException.cpp",
+              "RelativeToolTip": "oophw03\\EventException.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-29T10:21:17.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

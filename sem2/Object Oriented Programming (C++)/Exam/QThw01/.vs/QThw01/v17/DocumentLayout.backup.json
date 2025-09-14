@@ -1,0 +1,431 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\DSA\\Projects\\QThw01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\GUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\GUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\EventTableModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\EventTableModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\EventsTableViewDialog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\EventsTableViewDialog.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\ActionAdd.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionAdd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\ActionAdd.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Action.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\Action.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\GUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\GUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\Repo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\EventValidator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\EventValidator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\Event.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Database.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\Database.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionUpdate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\ActionUpdate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionUpdate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\ActionUpdate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\Repo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionDelete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\ActionDelete.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionDelete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\ActionDelete.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\QThw01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\QThw01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\CSVFileRepo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\CSVFileRepo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\QThw01.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FADAAE0-DD8C-4E71-9D53-28FF607F5BAB}|QThw01\\QThw01.vcxproj|solutionrelative:QThw01\\QThw01.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Facultate\\QT\\6.9.0\\msvc2022_64\\include\\QtCore\\qobject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 117,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "qobject.h",
+              "DocumentMoniker": "D:\\Facultate\\QT\\6.9.0\\msvc2022_64\\include\\QtCore\\qobject.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\QT\\6.9.0\\msvc2022_64\\include\\QtCore\\qobject.h",
+              "ToolTip": "D:\\Facultate\\QT\\6.9.0\\msvc2022_64\\include\\QtCore\\qobject.h",
+              "RelativeToolTip": "..\\..\\..\\QT\\6.9.0\\msvc2022_64\\include\\QtCore\\qobject.h",
+              "ViewState": "AgIAAOgAAAAAAAAAAAAuwPkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T06:29:18.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventTableModel.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\EventTableModel.h",
+              "RelativeDocumentMoniker": "QThw01\\EventTableModel.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\EventTableModel.h",
+              "RelativeToolTip": "QThw01\\EventTableModel.h",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T09:13:12.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Service.cpp",
+              "RelativeDocumentMoniker": "QThw01\\Service.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Service.cpp",
+              "RelativeToolTip": "QThw01\\Service.cpp",
+              "ViewState": "AgIAAJYAAAAAAAAAAADwv6wAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T13:36:33.779Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GUI.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\GUI.cpp",
+              "RelativeDocumentMoniker": "QThw01\\GUI.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\GUI.cpp",
+              "RelativeToolTip": "QThw01\\GUI.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAADwv3YAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-13T15:17:44.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventsTableViewDialog.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\EventsTableViewDialog.h",
+              "RelativeDocumentMoniker": "QThw01\\EventsTableViewDialog.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\EventsTableViewDialog.h",
+              "RelativeToolTip": "QThw01\\EventsTableViewDialog.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T09:14:29.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GUI.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\GUI.h",
+              "RelativeDocumentMoniker": "QThw01\\GUI.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\GUI.h",
+              "RelativeToolTip": "QThw01\\GUI.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T13:12:02.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Action.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Action.h",
+              "RelativeDocumentMoniker": "QThw01\\Action.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Action.h",
+              "RelativeToolTip": "QThw01\\Action.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T07:28:13.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActionAdd.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionAdd.h",
+              "RelativeDocumentMoniker": "QThw01\\ActionAdd.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionAdd.h",
+              "RelativeToolTip": "QThw01\\ActionAdd.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T07:31:56.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActionAdd.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionAdd.cpp",
+              "RelativeDocumentMoniker": "QThw01\\ActionAdd.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionAdd.cpp",
+              "RelativeToolTip": "QThw01\\ActionAdd.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-02T07:34:34.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Service.h",
+              "RelativeDocumentMoniker": "QThw01\\Service.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Service.h",
+              "RelativeToolTip": "QThw01\\Service.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T13:59:56.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Event.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Event.h",
+              "RelativeDocumentMoniker": "QThw01\\Event.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Event.h",
+              "RelativeToolTip": "QThw01\\Event.h",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T09:26:23.788Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Event.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Event.cpp",
+              "RelativeDocumentMoniker": "QThw01\\Event.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Event.cpp",
+              "RelativeToolTip": "QThw01\\Event.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAvwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-21T15:17:11.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Database.csv",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Database.csv",
+              "RelativeDocumentMoniker": "QThw01\\Database.csv",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Database.csv",
+              "RelativeToolTip": "QThw01\\Database.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-14T15:15:12.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repo.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Repo.cpp",
+              "RelativeDocumentMoniker": "QThw01\\Repo.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Repo.cpp",
+              "RelativeToolTip": "QThw01\\Repo.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T13:42:50.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventValidator.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\EventValidator.cpp",
+              "RelativeDocumentMoniker": "QThw01\\EventValidator.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\EventValidator.cpp",
+              "RelativeToolTip": "QThw01\\EventValidator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-05T14:56:50.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ActionUpdate.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionUpdate.h",
+              "RelativeDocumentMoniker": "QThw01\\ActionUpdate.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionUpdate.h",
+              "RelativeToolTip": "QThw01\\ActionUpdate.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T08:08:53.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ActionUpdate.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionUpdate.cpp",
+              "RelativeDocumentMoniker": "QThw01\\ActionUpdate.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionUpdate.cpp",
+              "RelativeToolTip": "QThw01\\ActionUpdate.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAADLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-02T08:09:28.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ActionDelete.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionDelete.h",
+              "RelativeDocumentMoniker": "QThw01\\ActionDelete.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionDelete.h",
+              "RelativeToolTip": "QThw01\\ActionDelete.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-02T07:54:38.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\main.cpp",
+              "RelativeDocumentMoniker": "QThw01\\main.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\main.cpp",
+              "RelativeToolTip": "QThw01\\main.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAA0wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T13:51:59.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repo.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Repo.h",
+              "RelativeDocumentMoniker": "QThw01\\Repo.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\Repo.h",
+              "RelativeToolTip": "QThw01\\Repo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAC7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T15:46:46.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ActionDelete.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionDelete.cpp",
+              "RelativeDocumentMoniker": "QThw01\\ActionDelete.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\ActionDelete.cpp",
+              "RelativeToolTip": "QThw01\\ActionDelete.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-02T07:55:58.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "QThw01.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\QThw01.cpp",
+              "RelativeDocumentMoniker": "QThw01\\QThw01.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\QThw01.cpp",
+              "RelativeToolTip": "QThw01\\QThw01.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-12T13:50:30.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CSVFileRepo.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\CSVFileRepo.cpp",
+              "RelativeDocumentMoniker": "QThw01\\CSVFileRepo.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\CSVFileRepo.cpp",
+              "RelativeToolTip": "QThw01\\CSVFileRepo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-14T10:04:31.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QThw01.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\QThw01.h",
+              "RelativeDocumentMoniker": "QThw01\\QThw01.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\QThw01\\QThw01\\QThw01.h",
+              "RelativeToolTip": "QThw01\\QThw01.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-13T12:44:45.998Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

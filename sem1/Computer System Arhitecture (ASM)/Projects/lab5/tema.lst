@@ -1,0 +1,43 @@
+     1                                  bits 32 ; assembling for the 32 bits architecture
+     2                                  
+     3                                  ; declare the EntryPoint (a label defining the very first instruction of the program)
+     4                                  global start        
+     5                                  
+     6                                  ; declare external functions needed by our program
+     7                                  extern exit               ; tell nasm that exit exists even if we won't be defining it
+     8                                  import exit msvcrt.dll    ; exit is a function that ends the calling process. It is defined in msvcrt.dll
+     9                                                            ; msvcrt.dll contains exit, printf and all the other important C-runtime specific functions
+    10                                  
+    11                                      ;29)A byte string S is given. Build the string D whose elements represent the sum of each two consecutive bytes of S.
+    12                                      ;Example:
+    13                                      ;S: 1, 2, 3, 4, 5, 6
+    14                                      ;D: 3, 5, 7, 9, 11
+    15                                  ; our data is declared here (the variables needed by our program)
+    16                                  segment data use32 class=data
+    17                                      ; ...
+    18 00000000 010203040506                S db 1, 2, 3, 4, 5, 6
+    19                                      lenS equ $-S
+    20 00000006 <res 00000004>              D resb $-S-2
+    21                                  ; our code starts here
+    22                                  segment code use32 class=code
+    23                                      start:
+    24                                          ; ...
+    25 00000000 BE00000000                      mov ESI, 0
+    26 00000005 B905000000                      mov ECX, lenS-1
+    27 0000000A A0[00000000]                    mov AL, byte[S]
+    28                                          ;adding the first element of A to D
+    29 0000000F E31B                            jecxz end_loop
+    30                                          repeat_label:
+    31 00000011 8A86[00000000]                      mov AL, [S+ESI]
+    32 00000017 0086[06000000]                      add [D+ESI], AL
+    33                                              
+    34 0000001D 8A86[01000000]                      mov AL, [S+ESI+1]
+    35 00000023 0086[06000000]                      add [D+ESI], AL
+    36                                              
+    37 00000029 46                                  inc ESI
+    38 0000002A E2E5                            loop repeat_label
+    39                                          ;at last the last element of A appears
+    40                                          end_loop:
+    41                                          ; exit(0)
+    42 0000002C 6A00                            push    dword 0      ; push the parameter for exit onto the stack
+    43 0000002E FF15[00000000]                  call    [exit]       ; call exit to terminate the program

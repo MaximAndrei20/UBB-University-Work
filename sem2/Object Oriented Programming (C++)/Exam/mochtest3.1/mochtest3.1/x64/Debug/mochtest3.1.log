@@ -1,0 +1,5 @@
+﻿   Qt/MSBuild: 3.4.0.1
+  Reading Qt configuration (D:/Facultate/QT/6.9.0/msvc2022_64/bin/qmake)
+   Qt: 6.9.0
+  main.cpp
+  mochtest3.1.vcxproj -> D:\Facultate\DSA\Projects\mochtest3.1\x64\Debug\mochtest3.1.exe

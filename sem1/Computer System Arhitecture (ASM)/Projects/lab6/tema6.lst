@@ -1,0 +1,55 @@
+     1                                  bits 32 ; assembling for the 32 bits architecture
+     2                                  
+     3                                  ; declare the EntryPoint (a label defining the very first instruction of the program)
+     4                                  global start        
+     5                                  
+     6                                  ; declare external functions needed by our program
+     7                                  extern exit               ; tell nasm that exit exists even if we won't be defining it
+     8                                  import exit msvcrt.dll    ; exit is a function that ends the calling process. It is defined in msvcrt.dll
+     9                                                            ; msvcrt.dll contains exit, printf and all the other important C-runtime specific functions
+    10                                  
+    11                                  ; our data is declared here (the variables needed by our program)
+    12                                  segment data use32 class=data
+    13                                      ; ...
+    14                                          ;26) A string of doublewords is given. Compute the string formed by the high bytes of the low words from the elements of the doubleword string and these bytes should be multiple of 10.
+    15                                          ;Example:
+    16                                          ;given the doublewords string:
+    17                                          ;s DD 12345678h, 1A2B3C4Dh, FE98DC76h 
+    18                                          ;obtain the string
+    19                                          ;d DB 3Ch, DCh.
+    20 00000000 785634124D3C2B1A76-         s dd 0x12345678, 0x1A2B3C4D, 0xFE98DC76
+    20 00000009 DC98FE             
+    21                                      lens equ ($-s)/4
+    22 0000000C 00<rept>                    d times lens db 0
+    23 0000000F 00                          copy db 0
+    24 00000010 0A                          ten db 10
+    25                                      
+    26                                      
+    27                                  ; our code starts here
+    28                                  segment code use32 class=code
+    29                                      start:
+    30                                          ; ...
+    31 00000000 B903000000                      mov ECX, lens
+    32 00000005 BE[00000000]                    mov ESI, s
+    33 0000000A BF[0C000000]                    mov EDI, d
+    34                                          itterate:
+    35 0000000F AD                              lodsd
+    36                                          ;making a copy
+    37 00000010 8825[0F000000]                  mov [copy], AH
+    38                                          ;in order to check if AL is divisible by 10 we will divide AX = 00AL with 10 and check if AH(the modulo) is 0
+    39 00000016 88E0                            mov AL, AH
+    40 00000018 B400                            mov AH, 0
+    41 0000001A F635[10000000]                  div byte[ten]
+    42 00000020 80FC00                          cmp AH, 0
+    43                                          
+    44 00000023 7506                            jne notdivisible
+    45 00000025 A0[0F000000]                    mov AL, [copy]
+    46 0000002A AA                              stosb
+    47                                          
+    48                                          notdivisible:
+    49 0000002B E2E2                            loop itterate
+    50                                          
+    51                                          
+    52                                          ; exit(0)
+    53 0000002D 6A00                            push    dword 0      ; push the parameter for exit onto the stack
+    54 0000002F FF15[00000000]                  call    [exit]       ; call exit to terminate the program
