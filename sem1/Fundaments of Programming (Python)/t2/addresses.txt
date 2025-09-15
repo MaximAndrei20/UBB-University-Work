@@ -1,0 +1,5 @@
+1,Theodor Mihali,12,20
+2000,Dorobantilor,50,100
+5,Gheorghe Doja,1,5
+8,Mihai Viteazu,20,40
+9,Avram Iancu,10,20

@@ -1,0 +1,9 @@
+Student ID: 1, Assignment ID: 1, Grade: 10
+Student ID: 3, Assignment ID: 1, Grade: 8
+Student ID: 4, Assignment ID: 1, Grade: 7
+Student ID: 5, Assignment ID: 2, Grade: 10
+Student ID: 6, Assignment ID: 2, Grade: 9
+Student ID: 7, Assignment ID: 2, Grade: 8
+Student ID: 1, Assignment ID: 2, Grade: 7
+Student ID: 3, Assignment ID: 3, Grade: 9
+Student ID: 3, Assignment ID: 2, Grade: 0

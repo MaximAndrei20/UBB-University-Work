@@ -1,0 +1,3 @@
+search = binary search (recursive implementation)
+basic sort = bubble sort
+advanced sort = gnome sort

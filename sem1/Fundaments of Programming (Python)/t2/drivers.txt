@@ -1,0 +1,5 @@
+Ion,10,21
+Vasile,50,102
+Popa,1,4
+Mihai,20,41
+Stefan,1000,1000

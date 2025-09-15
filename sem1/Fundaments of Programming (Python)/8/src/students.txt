@@ -1,0 +1,6 @@
+Student ID: 1, Name: Alice, Group: 1
+Student ID: 3, Name: Charlie, Group: 1
+Student ID: 4, Name: David, Group: 2
+Student ID: 5, Name: Eve, Group: 3
+Student ID: 6, Name: Frank, Group: 1
+Student ID: 7, Name: Grace, Group: 2

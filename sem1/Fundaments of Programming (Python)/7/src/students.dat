@@ -1,0 +1,11 @@
+import pickle
+from domain.student import Student
+
+students = {
+    1: Student(1, "John Doe", 101),
+    2: Student(2, "Jane Smith", 102),
+    3: Student(3, "Bob Johnson", 103)
+}
+
+with open('students.dat', 'wb') as file:
+    pickle.dump(students, file)

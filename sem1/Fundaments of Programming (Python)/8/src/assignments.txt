@@ -1,0 +1,5 @@
+ID: 1, Description: Assignment 1, Deadline: 10.10.2021
+ID: 2, Description: Assignment 2, Deadline: 11.10.2021
+ID: 3, Description: Assignment 3, Deadline: 12.10.2021
+ID: 4, Description: Assignment 4, Deadline: 13.10.2021
+ID: 5, Description: Assignment 5, Deadline: 14.10.2021
