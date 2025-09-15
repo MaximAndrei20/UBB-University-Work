@@ -1,0 +1,9 @@
+﻿   Qt/MSBuild: 3.4.0.1
+  Reading Qt configuration (D:/Facultate/QT/6.9.0/msvc2022_64/bin/qmake)
+   Qt: 6.9.0
+  mochtest3.cpp
+  mochtest3Plugin.cpp
+  moc_mochtest3.cpp
+  moc_mochtest3Plugin.cpp
+     Creating library D:\Facultate\DSA\Projects\mochtest3\x64\Debug\mochtest3.lib and object D:\Facultate\DSA\Projects\mochtest3\x64\Debug\mochtest3.exp
+  mochtest3.vcxproj -> D:\Facultate\DSA\Projects\mochtest3\x64\Debug\mochtest3.dll

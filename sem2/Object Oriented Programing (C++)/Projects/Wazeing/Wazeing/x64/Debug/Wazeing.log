@@ -1,0 +1,8 @@
+﻿   Qt/MSBuild: 3.4.0.1
+   Qt: 6.9.0
+  uic DriverWindow.ui
+  moc DriverWindow.h
+  DriverWindow.cpp
+  main.cpp
+  moc_DriverWindow.cpp
+  Wazeing.vcxproj -> D:\Facultate\DSA\Projects\Wazeing\x64\Debug\Wazeing.exe

@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\DSA\\Projects\\hw01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBBCCE4-A0D1-427A-A534-9371AC3BF39C}|hw01\\hw01.vcxproj|D:\\Facultate\\DSA\\Projects\\hw01\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FBBCCE4-A0D1-427A-A534-9371AC3BF39C}|hw01\\hw01.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 117,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\hw01\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\hw01\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAIkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-26T21:27:45.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

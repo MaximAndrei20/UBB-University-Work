@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\DSA\\Projects\\Test3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Weather.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|solutionrelative:Test3\\Weather.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|solutionrelative:Test3\\Weather.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|solutionrelative:Test3\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\GUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|solutionrelative:Test3\\GUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|solutionrelative:Test3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\GUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|solutionrelative:Test3\\GUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|solutionrelative:Test3\\Service.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Repository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|solutionrelative:Test3\\Repository.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Repository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|solutionrelative:Test3\\Repository.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|solutionrelative:Test3\\Service.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Test3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C3C633B-5377-4F87-ADE1-A1742C43F49F}|Test3\\Test3.vcxproj|solutionrelative:Test3\\Test3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 117,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "data.txt",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\data.txt",
+              "RelativeDocumentMoniker": "Test3\\data.txt",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\data.txt",
+              "RelativeToolTip": "Test3\\data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-28T15:17:25.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GUI.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\GUI.cpp",
+              "RelativeDocumentMoniker": "Test3\\GUI.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\GUI.cpp",
+              "RelativeToolTip": "Test3\\GUI.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T15:22:39.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Service.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Service.cpp",
+              "RelativeDocumentMoniker": "Test3\\Service.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Service.cpp",
+              "RelativeToolTip": "Test3\\Service.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T15:21:20.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Repository.cpp",
+              "RelativeDocumentMoniker": "Test3\\Repository.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Repository.cpp",
+              "RelativeToolTip": "Test3\\Repository.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T15:19:50.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weather.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Weather.cpp",
+              "RelativeDocumentMoniker": "Test3\\Weather.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Weather.cpp",
+              "RelativeToolTip": "Test3\\Weather.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T15:16:02.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Service.h",
+              "RelativeDocumentMoniker": "Test3\\Service.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Service.h",
+              "RelativeToolTip": "Test3\\Service.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T15:14:31.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Repository.h",
+              "RelativeDocumentMoniker": "Test3\\Repository.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Repository.h",
+              "RelativeToolTip": "Test3\\Repository.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T15:14:20.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GUI.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\GUI.h",
+              "RelativeDocumentMoniker": "Test3\\GUI.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\GUI.h",
+              "RelativeToolTip": "Test3\\GUI.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAzwAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T15:13:46.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\main.cpp",
+              "RelativeDocumentMoniker": "Test3\\main.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\main.cpp",
+              "RelativeToolTip": "Test3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA+wAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T14:54:18.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Weather.h",
+              "RelativeDocumentMoniker": "Test3\\Weather.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Weather.h",
+              "RelativeToolTip": "Test3\\Weather.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-28T15:13:32.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Test3.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Test3.cpp",
+              "RelativeDocumentMoniker": "Test3\\Test3.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test3\\Test3\\Test3.cpp",
+              "RelativeToolTip": "Test3\\Test3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-28T14:54:09.436Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

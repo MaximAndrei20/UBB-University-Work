@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\DSA\\Projects\\Test2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\filetest1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|solutionrelative:Test2\\filetest1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\NeonatalUnit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|solutionrelative:Test2\\NeonatalUnit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\NeonatalUnit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|solutionrelative:Test2\\NeonatalUnit.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\HospitalDepartment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|solutionrelative:Test2\\HospitalDepartment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\Surgery.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|solutionrelative:Test2\\Surgery.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\Controller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|solutionrelative:Test2\\Controller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\Controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|solutionrelative:Test2\\Controller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|solutionrelative:Test2\\UI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|solutionrelative:Test2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\Surgery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|solutionrelative:Test2\\Surgery.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|solutionrelative:Test2\\UI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\HospitalDepartment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D677F75-7F5C-47C7-AB4D-2E1682D4AF75}|Test2\\Test2.vcxproj|solutionrelative:Test2\\HospitalDepartment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 117,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Controller.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\Controller.h",
+              "RelativeDocumentMoniker": "Test2\\Controller.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\Controller.h",
+              "RelativeToolTip": "Test2\\Controller.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T15:10:06.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Controller.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\Controller.cpp",
+              "RelativeDocumentMoniker": "Test2\\Controller.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\Controller.cpp",
+              "RelativeToolTip": "Test2\\Controller.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T15:22:19.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UI.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\UI.cpp",
+              "RelativeDocumentMoniker": "Test2\\UI.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\UI.cpp",
+              "RelativeToolTip": "Test2\\UI.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T15:18:56.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NeonatalUnit.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\NeonatalUnit.h",
+              "RelativeDocumentMoniker": "Test2\\NeonatalUnit.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\NeonatalUnit.h",
+              "RelativeToolTip": "Test2\\NeonatalUnit.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T15:10:39.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\main.cpp",
+              "RelativeDocumentMoniker": "Test2\\main.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\main.cpp",
+              "RelativeToolTip": "Test2\\main.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA5wAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T15:09:47.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HospitalDepartment.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\HospitalDepartment.h",
+              "RelativeDocumentMoniker": "Test2\\HospitalDepartment.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\HospitalDepartment.h",
+              "RelativeToolTip": "Test2\\HospitalDepartment.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T15:10:21.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Surgery.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\Surgery.h",
+              "RelativeDocumentMoniker": "Test2\\Surgery.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\Surgery.h",
+              "RelativeToolTip": "Test2\\Surgery.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T15:10:49.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "filetest1.txt",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\filetest1.txt",
+              "RelativeDocumentMoniker": "Test2\\filetest1.txt",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\filetest1.txt",
+              "RelativeToolTip": "Test2\\filetest1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-07T15:42:46.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NeonatalUnit.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\NeonatalUnit.cpp",
+              "RelativeDocumentMoniker": "Test2\\NeonatalUnit.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\NeonatalUnit.cpp",
+              "RelativeToolTip": "Test2\\NeonatalUnit.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T15:30:47.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Surgery.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\Surgery.cpp",
+              "RelativeDocumentMoniker": "Test2\\Surgery.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\Surgery.cpp",
+              "RelativeToolTip": "Test2\\Surgery.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T15:28:24.905Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UI.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\UI.h",
+              "RelativeDocumentMoniker": "Test2\\UI.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\UI.h",
+              "RelativeToolTip": "Test2\\UI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-07T15:09:58.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HospitalDepartment.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\HospitalDepartment.cpp",
+              "RelativeDocumentMoniker": "Test2\\HospitalDepartment.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\Test2\\Test2\\HospitalDepartment.cpp",
+              "RelativeToolTip": "Test2\\HospitalDepartment.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T15:37:15.06Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+car accident|Mihai|5|6|0
+cat stuck in tree|Rares|7|8|0
+car accident|Andrei|5|7|0
+car accident|Vlad|101|101|0

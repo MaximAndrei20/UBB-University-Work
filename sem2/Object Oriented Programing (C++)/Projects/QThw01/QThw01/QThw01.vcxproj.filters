@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>qml;cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Translation Files">
+      <UniqueIdentifier>{639EADAA-A684-42e4-A9AD-28FC9BCB8F7C}</UniqueIdentifier>
+      <Extensions>ts</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Domain">
+      <UniqueIdentifier>{89db35df-3a3c-4fcf-b2cb-80ee929c922f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Repositories">
+      <UniqueIdentifier>{0c7226c9-5364-416a-8db4-e9e9dae48d20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Service">
+      <UniqueIdentifier>{65cbfb00-4ca7-4156-84fd-c7445da76b40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI">
+      <UniqueIdentifier>{0998efdd-b29e-4743-9775-fb84425ad4d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Domain">
+      <UniqueIdentifier>{7610ed7b-a525-4d13-baf8-b208528077c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Repositories">
+      <UniqueIdentifier>{76821b72-b688-45fc-b4e7-90a98bd2511d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Service">
+      <UniqueIdentifier>{9d593017-6a31-48e2-9e97-beca6ba60289}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GUI">
+      <UniqueIdentifier>{196c2c67-3d12-4040-ad84-a2989664faa4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>qrc;rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Domain\Actions">
+      <UniqueIdentifier>{f7431780-16b2-4cd8-9dfb-8f90d1b349a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Domain\Actions">
+      <UniqueIdentifier>{ef9641fd-37ae-4747-aabf-0b7ec0e847a3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="QThw01.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+    <QtUic Include="QThw01.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Event.cpp">
+      <Filter>Source Files\Domain</Filter>
+    </ClCompile>
+    <ClCompile Include="EventException.cpp">
+      <Filter>Source Files\Domain</Filter>
+    </ClCompile>
+    <ClCompile Include="EventValidator.cpp">
+      <Filter>Source Files\Domain</Filter>
+    </ClCompile>
+    <ClCompile Include="CSVFileRepo.cpp">
+      <Filter>Source Files\Repositories</Filter>
+    </ClCompile>
+    <ClCompile Include="FileRepo.cpp">
+      <Filter>Source Files\Repositories</Filter>
+    </ClCompile>
+    <ClCompile Include="HTMLRepo.cpp">
+      <Filter>Source Files\Repositories</Filter>
+    </ClCompile>
+    <ClCompile Include="GUI.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="QThw01.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="Repo.cpp">
+      <Filter>Source Files\Repositories</Filter>
+    </ClCompile>
+    <ClCompile Include="Service.cpp">
+      <Filter>Source Files\Service</Filter>
+    </ClCompile>
+    <ClCompile Include="ActionDelete.cpp">
+      <Filter>Source Files\Domain\Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="ActionAdd.cpp">
+      <Filter>Source Files\Domain\Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="Action.cpp">
+      <Filter>Source Files\Domain\Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="ActionUpdate.cpp">
+      <Filter>Source Files\Domain\Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="EventTableModel.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="EventsTableViewDialog.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Event.h">
+      <Filter>Header Files\Domain</Filter>
+    </ClInclude>
+    <ClInclude Include="EventException.h">
+      <Filter>Header Files\Domain</Filter>
+    </ClInclude>
+    <ClInclude Include="EventValidator.h">
+      <Filter>Header Files\Domain</Filter>
+    </ClInclude>
+    <ClInclude Include="CSVFileRepo.h">
+      <Filter>Header Files\Repositories</Filter>
+    </ClInclude>
+    <ClInclude Include="FileRepo.h">
+      <Filter>Header Files\Repositories</Filter>
+    </ClInclude>
+    <ClInclude Include="HTMLRepo.h">
+      <Filter>Header Files\Repositories</Filter>
+    </ClInclude>
+    <ClInclude Include="Service.h">
+      <Filter>Header Files\Service</Filter>
+    </ClInclude>
+    <ClInclude Include="Repo.h">
+      <Filter>Header Files\Repositories</Filter>
+    </ClInclude>
+    <ClInclude Include="Action.h">
+      <Filter>Header Files\Domain\Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="ActionAdd.h">
+      <Filter>Header Files\Domain\Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="ActionDelete.h">
+      <Filter>Header Files\Domain\Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="ActionUpdate.h">
+      <Filter>Header Files\Domain\Actions</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Database.csv">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="html.html">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="excel.csv">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="QThw01.h">
+      <Filter>Header Files\GUI</Filter>
+    </QtMoc>
+    <QtMoc Include="GUI.h">
+      <Filter>Header Files\GUI</Filter>
+    </QtMoc>
+    <QtMoc Include="EventsTableViewDialog.h">
+      <Filter>Header Files\GUI</Filter>
+    </QtMoc>
+    <QtMoc Include="EventTableModel.h">
+      <Filter>Header Files\GUI</Filter>
+    </QtMoc>
+  </ItemGroup>
+</Project>
