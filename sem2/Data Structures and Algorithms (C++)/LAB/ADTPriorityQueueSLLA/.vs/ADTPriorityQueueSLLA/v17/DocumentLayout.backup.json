@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA321A35-15A3-4D9A-AA19-B23BC22EF692}|ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA.vcxproj|D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\ShortTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA321A35-15A3-4D9A-AA19-B23BC22EF692}|ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA.vcxproj|solutionrelative:ADTPriorityQueueSLLA\\ShortTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA321A35-15A3-4D9A-AA19-B23BC22EF692}|ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA.vcxproj|D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\PriorityQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA321A35-15A3-4D9A-AA19-B23BC22EF692}|ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA.vcxproj|solutionrelative:ADTPriorityQueueSLLA\\PriorityQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA321A35-15A3-4D9A-AA19-B23BC22EF692}|ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA.vcxproj|D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\PriorityQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA321A35-15A3-4D9A-AA19-B23BC22EF692}|ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA.vcxproj|solutionrelative:ADTPriorityQueueSLLA\\PriorityQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA321A35-15A3-4D9A-AA19-B23BC22EF692}|ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA.vcxproj|D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\ExtendedTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA321A35-15A3-4D9A-AA19-B23BC22EF692}|ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA.vcxproj|solutionrelative:ADTPriorityQueueSLLA\\ExtendedTest.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA321A35-15A3-4D9A-AA19-B23BC22EF692}|ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA.vcxproj|D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA321A35-15A3-4D9A-AA19-B23BC22EF692}|ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA.vcxproj|solutionrelative:ADTPriorityQueueSLLA\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA321A35-15A3-4D9A-AA19-B23BC22EF692}|ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA.vcxproj|D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\ExtendedTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA321A35-15A3-4D9A-AA19-B23BC22EF692}|ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA.vcxproj|solutionrelative:ADTPriorityQueueSLLA\\ExtendedTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 117,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExtendedTest.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\ExtendedTest.h",
+              "RelativeDocumentMoniker": "ADTPriorityQueueSLLA\\ExtendedTest.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\ExtendedTest.h",
+              "RelativeToolTip": "ADTPriorityQueueSLLA\\ExtendedTest.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-30T09:08:44.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShortTest.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\ShortTest.cpp",
+              "RelativeDocumentMoniker": "ADTPriorityQueueSLLA\\ShortTest.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\ShortTest.cpp",
+              "RelativeToolTip": "ADTPriorityQueueSLLA\\ShortTest.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAACkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-30T09:05:12.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PriorityQueue.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\PriorityQueue.cpp",
+              "RelativeDocumentMoniker": "ADTPriorityQueueSLLA\\PriorityQueue.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\PriorityQueue.cpp",
+              "RelativeToolTip": "ADTPriorityQueueSLLA\\PriorityQueue.cpp",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T12:29:43.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExtendedTest.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\ExtendedTest.cpp",
+              "RelativeDocumentMoniker": "ADTPriorityQueueSLLA\\ExtendedTest.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\ExtendedTest.cpp",
+              "RelativeToolTip": "ADTPriorityQueueSLLA\\ExtendedTest.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T12:49:40.729Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PriorityQueue.h",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\PriorityQueue.h",
+              "RelativeDocumentMoniker": "ADTPriorityQueueSLLA\\PriorityQueue.h",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\PriorityQueue.h",
+              "RelativeToolTip": "ADTPriorityQueueSLLA\\PriorityQueue.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T12:13:54.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.cpp",
+              "DocumentMoniker": "D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\App.cpp",
+              "RelativeDocumentMoniker": "ADTPriorityQueueSLLA\\App.cpp",
+              "ToolTip": "D:\\Facultate\\DSA\\Projects\\ADTPriorityQueueSLLA\\ADTPriorityQueueSLLA\\App.cpp",
+              "RelativeToolTip": "ADTPriorityQueueSLLA\\App.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T12:13:19.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
